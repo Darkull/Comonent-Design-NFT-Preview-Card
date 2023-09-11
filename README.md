@@ -43,7 +43,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/Darkull/Comonent-Design-NFT-Preview-Card?search=1)
-- Live Site URL: [Live-CLICK ME](https://comonent-design-nft.netlify.app/)
+- Live Site URL: <a href="https://comonent-design-nft.netlify.app/" target="_blank">Live-CLICK ME</a>
 
 ## My process
 
