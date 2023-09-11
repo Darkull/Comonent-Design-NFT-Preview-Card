@@ -173,3 +173,24 @@ h1:hover {
 .img-section:hover .hover-icon {
   opacity: 1;
 }
+
+footer {
+  display: flex;
+  justify-content: center;
+}
+
+footer p {
+  color: #fff;
+}
+footer p a {
+  color: #fff;
+  text-decoration: none;
+}
+
+footer p a:hover {
+  color: rgba(0, 255, 247, 1);
+}
+
+footer p a:active {
+  text-decoration: underline;
+}
