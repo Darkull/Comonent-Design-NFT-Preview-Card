@@ -31,15 +31,19 @@ Users should be able to:
 
 ### Screenshot
 
-![Comonent Design NFT Preview Card View](https://cdn.discordapp.com/attachments/1128589450692280490/1150843264291852458/desktop-preview.jpg)
-![Desktop View](https://cdn.discordapp.com/attachments/1128589450692280490/1150843264019202098/desktop-design.jpg)
-![Hovered View](https://cdn.discordapp.com/attachments/1128589450692280490/1150843263562043464/active-states.jpg)
-![Mobile View](https://cdn.discordapp.com/attachments/1128589450692280490/1150843264589631579/mobile-design.jpg)
+- Comonent Design NFT Preview Card View
+  ![Comonent Design NFT Preview Card View](https://cdn.discordapp.com/attachments/1128589450692280490/1150843264291852458/desktop-preview.jpg)
+- Desktop View
+  ![Desktop View](https://cdn.discordapp.com/attachments/1128589450692280490/1150843264019202098/desktop-design.jpg)
+- Hovered View
+  ![Hovered View](https://cdn.discordapp.com/attachments/1128589450692280490/1150843263562043464/active-states.jpg)
+- Mobile View
+<div align="center"><img src="https://cdn.discordapp.com/attachments/1128589450692280490/1150843264589631579/mobile-design.jpg" alt="Mobile View"></div>
 
 ### Links
 
 - Solution URL: (https://github.com/Darkull/Comonent-Design-NFT-Preview-Card?search=1)
-- Live Site URL: [Live-CLICK ME](comonent-design-nft.netlify.app/)
+- Live Site URL: [Live-CLICK ME](https://comonent-design-nft.netlify.app/)
 
 ## My process
 
